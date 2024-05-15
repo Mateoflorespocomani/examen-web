@@ -1,0 +1,20 @@
+
+}
+
+ table tr:nth-child(odd) td {
+    background-color:greenyellow;
+    color: white;
+}
+table thead{
+    background-color: blue;
+}
+#main-container{
+    margin: 150px auto;
+    width: 600px;
+}
+thead{
+    background-color:blue;
+    border-bottom: solid 5px;
+    color: white;
+
+}
